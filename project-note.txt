@@ -1,0 +1,21 @@
+未來可改善:
+- 各Title,heading的設計
+- Slide的設計
+- 整理圖片的folder,現在過於混亂
+
+
+****Dev版本******
+
+23/4/2020:
+- Our Teacher頁需作手機調整 
+- Intro Video的Close Button 不能關閉
+- Multi Language
+- Code Review: main.js(簡潔及優化Code)
+
+24/4/2020
+- Our Teacher頁需作手機調整 
+- Intro Video的Close Button 不能關閉
+- Multi Language
+- Code Review: main.js(簡潔及優化Code)
+- Responsive Fonts Size
+- srcset Responsive圖片
